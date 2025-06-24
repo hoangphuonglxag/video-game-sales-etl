@@ -1,3 +1,6 @@
+# video-game-sales-etl
+ETL project for video game sales data using Python
+
 20 / 06 / 2025
 video-game-sales-etl
 
@@ -28,7 +31,7 @@ Khởi tạo CSDL: Tạo bảng từ file database/schema.sql bằng PostgreSQL.
 
 **Chạy ETL pipeline: python main.py
 
-📊 Dataset
+Dataset
 Dữ liệu được lấy từ Kaggle - Video Game Sales
 
 Ghi chú
